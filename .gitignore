@@ -51,6 +51,7 @@ Plugins/*/Binaries/*
 
 # Builds
 Build/*
+_RtspServer/x64/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
