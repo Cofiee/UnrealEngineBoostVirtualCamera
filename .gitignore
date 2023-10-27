@@ -52,6 +52,7 @@ Plugins/*/Binaries/*
 # Builds
 Build/*
 _RtspServer/x64/*
+_RtspServer/GStreamerServer/x64/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
